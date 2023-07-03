@@ -44,8 +44,8 @@ export default {
   data() {
     return {
       form: {
-        userLogin: 'admin',
-        userPass: ''
+        userLogin: 'wanger',
+        userPass: 'wanger123'
       },
       // 添加标签对话框可见性
       qrDialogVisible: false,
